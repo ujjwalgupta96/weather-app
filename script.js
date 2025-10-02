@@ -1,4 +1,4 @@
-const apiKey = "d5cc4e9224dbb4ee829e26f98df54002";
+const apiKey = "your_api_key";
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 const weatherIcon = document.querySelector(".weather-icon");
 
@@ -50,3 +50,4 @@ input.addEventListener("keypress", function (event) {
     }
 });
 document.querySelector(".weather").classList.add("show");
+
