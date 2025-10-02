@@ -27,7 +27,8 @@ A simple and responsive **Weather Application** built with **HTML, CSS, and Java
 
 const apiKey = "YOUR_API_KEY";
 📸 Preview
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4efd0b1e-0808-4f97-ae7d-d0c88c158a2f" />
+<img width="1079" height="576" alt="image" src="https://github.com/user-attachments/assets/61f513ed-0060-43bc-abe1-bda974694084" />
+
 
 
 🧑‍💻 Author
