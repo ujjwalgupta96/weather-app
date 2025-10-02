@@ -1,6 +1,6 @@
 # 🌦️ Weather App
 
-A simple and responsive "Weather Application" built with "HTML, CSS, and JavaScript" using the "OpenWeatherMap API" to display real-time weather data of any city.
+A simple and responsive **Weather Application** built with **HTML, CSS, and JavaScript** using the "OpenWeatherMap API" to display real-time weather data of any city.
 
 ---
 
@@ -27,7 +27,8 @@ A simple and responsive "Weather Application" built with "HTML, CSS, and JavaScr
 
 const apiKey = "YOUR_API_KEY";
 📸 Preview
-(Add your screenshots here)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4efd0b1e-0808-4f97-ae7d-d0c88c158a2f" />
+
 
 🧑‍💻 Author
 Ujjwal Gupta
